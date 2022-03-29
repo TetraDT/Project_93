@@ -1,0 +1,17 @@
+#start-btn{
+    font-style: italic;
+    color: turquoise;
+    font-size: 20px;
+    width: 100px;
+    background-color: black;
+}
+
+ html, body{
+    background: linear-gradient(to left, grey 55%, yellow 45%);
+    height: 100%;
+    margin: 0;
+    }
+
+    #user_name{
+        width:300px; 
+    }
